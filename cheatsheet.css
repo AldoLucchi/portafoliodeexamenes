@@ -6,7 +6,7 @@ button {
       transition: background-color 0.3s ease !important;
 }
 
-button:hover: {
+button:hover{
     color: #99A9B5FF !important;
 }
 
